@@ -1,0 +1,16 @@
+#walrus-showing {
+  display: none;
+}
+
+#emu-showing {
+  display: none;
+}
+
+.clickable, .clickable-emu {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover, .clickable-emu {
+  text-decoration: underline;
+}
